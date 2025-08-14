@@ -1,6 +1,6 @@
 # 📊 Marketing Mix Modeling (MMM) with PyMC
 
-> **Keywords**: Marketing Mix Modeling, MMM, Bayesian Modeling, PyMC, Agentic AI, Budget Optimization, Python, Machine Learning, Media Attribution
+> **Keywords**: Marketing Mix Modeling, MMM, Bayesian Modeling, PyMC, Budget Optimization, Python, Machine Learning, Media Attribution
 
 ---
 
